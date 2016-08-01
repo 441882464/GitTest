@@ -8,3 +8,5 @@
 i'm git test
 hello
 myname
+test
+sth new 
