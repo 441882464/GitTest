@@ -4,8 +4,7 @@
 3333333
 4444444
 5555555
-aaaaaaa
 0606060
-hello github
 i'm git test
-test
+hello
+myname
